@@ -54,14 +54,13 @@ We decided to use (for css - [Semantic UI](https://semantic-ui.com/) for framewo
     - Colaboration was constantly hindered by time clashes either due to job timings or other reason's for unavailability. But we still made it happen despite the time constraints other than the presentation deadline.
 
 ## ScreenShots
+      - Desktop Size: ![desktop-size](screenshots/ScreenShot_fullsize.png)
 
-![desktop-size](screenshots/ScreenShot_fullsize.png)
+      - Mobile Responsive Size: ![Mobile-responsive-size](screenshots/ScreenShot_MobileResponsiveSize.png)
 
-![Mobile-responsive-size](screenshots/ScreenShot_MobileResponsiveSize.png)
+      - Search Result 1 (showing the searched genre and band/singer): ![Search-result-1_genre&band/singer](screenshots/ScreenShot_SearchResult1.png)
 
-![Search-result-1_genre&band/singer](screenshots/ScreenShot_SearchResult1.png)
-
-![Search-result-2_lyrics](screenshots/ScreenShot_SearchResult2.png)
+      - Search result 2 (showing the lyrics): ![Search-result-2_lyrics](screenshots/ScreenShot_SearchResult2.png)
 
 ## Contributors
 

@@ -26,9 +26,9 @@ This one is a project. Unlike Challenges it's a colab team work/effort on this o
 
 ## Links
 
-- [Deployed Link](--)
+- [Deployed Link](https://a-n26.github.io/Project1-MusicRecommandationsApp/)
 
-- [GitHub repo Link](https://github.com/)
+- [GitHub repo Link](https://github.com/A-N26/Project1-MusicRecommandationsApp.git)
 
 ## Code Description
 
@@ -36,8 +36,8 @@ We decided to use (for css - [Semantic UI](https://semantic-ui.com/) for framewo
 
 - CSS→
 
-      - Thankx to the SemanticUI framework the site was display responsive for smaller sizes (phones & tablets)
-      - primary styles were added directly to html code as required for SemanticUI responsiveness.
+      - Thankx to the SemanticUI framework the site is displaying responsively for smaller sizes (phones & tablets)
+      - primary styles were added directly to html code as required for SemanticUI css responsiveness.
       - A few other style properties were introduced through local css file for adjustments.
 
 - JavaScript→

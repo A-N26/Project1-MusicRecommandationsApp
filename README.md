@@ -52,6 +52,7 @@ We decided to use (for css - [Semantic UI](https://semantic-ui.com/) for framewo
     - Spotify Api proved to be highly troublesome to use.
     - We had initially implmented a "background ambient music" to play when a play button was clicked and during Demo it played properly and as intended. but later on it simply wouldnt work no matter what we did (made sure the images,media linkings were proper along with the script and later on changed script to try a diff approach)...
     - Colaboration was constantly hindered by time clashes either due to job timings or other reason's for unavailability. But we still made it happen despite the time constraints other than the presentation deadline.
+    - the Lyrics were showing till the demo day (thursday) but curreently they refuse to show up (likely the api not being down. as we double checked the code and it seems to be ok.)
 
 ## ScreenShots
 

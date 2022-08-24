@@ -107,18 +107,22 @@ async function displayLyrics(songArtist, songName) {
 }
 
 // background ambient music
-var mysong = document.getElementById("mysong");
-var icon = document.getElementById("icon");
+icon.onclick = function() {
+    var mysong = document.getElementById("mysong");
+    var icon = document.getElementById("icon");
 
-icon.onclick = function () {
-  if (mysong.paused) {
+    if (mysong.paused) {
     mysong.play();
     icon.src = "./assets/images/pause.png";
-  } else {
+    mysong.loop = true;
+    }
+    else {
     mysong.pause();
     icon.src = "./assets/images/play.png";
-  }
-};
+    }
+
+$('#icon').css('cursor', 'pointer');
+}
 
 // modal function
 var modal = document.createElement("modal-content");
